@@ -1,0 +1,25 @@
+() CommandApi usage
+() AggregateRoot usage
+() Command testing
+() Create events
+() LoggerFactory
+() Versioning
+() POSTMAN scripts
+() Create InternalAssociate in repository
+() Create Parent
+() Create OperatingContexts
+() Create AssetManagerRelationship
+() Create Contacts
+() API exposure - PUT, DELETE
+() Return list from GetBusinessAssociates repository.
+() Finish up InternalBusinessAssociate
+() Advice from DDD book (Complete)
+() Regex and length classes
+() Value objects (Complete)
+() DTOs (Complete)
+() Add repository (Complete)
+() Look into EF InMemory database (More)
+() Exception handling
+() Envelope (What is this about?)
+() xUnit Testing - graphic xUnit TDD example
+() Swagger and Swashbuckle
